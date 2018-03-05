@@ -13,7 +13,7 @@ Some reasons I have this repo are to:
 * Tell the world the things I want to see. I think the things in this list are
   useful to the world, and it doesn't need to be me who does it. It would be
   great to find out that somebody saw a sufficient need based partly on this
-  page and decided to make something. This is similar to [request for startups](https://www.ycombinator.com/rfs/ "“Requests for Startups”. Y Combinator. September 2016. Retrieved November 26, 2017.") or
+  repo and decided to make something. This is similar to [request for startups](https://www.ycombinator.com/rfs/ "“Requests for Startups”. Y Combinator. September 2016. Retrieved November 26, 2017.") or
   [charities](https://blog.givewell.org/2015/10/15/charities-wed-like-to-see/ "Elie Hassenfeld. “Charities we'd like to see”. GiveWell. March 1, 2017. Retrieved November 26, 2017.").
 * Track the things I want to work on. I often think of things I'd like to work on while daydreaming
   or working on something else. If I don't put an effort into recording things
@@ -48,7 +48,7 @@ performing the task (skill-sets vary considerably across people so it would be d
 exceptional by any means and I expect many people can perform at a comparable
 level or even better depending on their expertise. (As a side note, even on the
 project idea generation front I don't think I am exceptional -- in fact this
-page so far is quite rudimentary and biased toward things I find personally
+repo so far is quite rudimentary and biased toward things I find personally
 interesting rather than most useful to the world -- so I think other people can
 and should also be more transparent about projects they want to see.) Days here
 refer to work days, so 8 hour periods. Of course, [planning fallacy](https://en.wikipedia.org/wiki/Planning_fallacy "“Planning fallacy”. English Wikipedia. Retrieved November 26, 2017.") makes it difficult to estimate how long a project will take,
