@@ -35,6 +35,12 @@ to be helpful in scanning the list and orienting oneself, but is only
 suggestive; it is often the case that as a project proceeds, details become
 clearer or change.
 
+This is not an exhaustive list of project ideas. In particular if I have
+already done some work on a project and just want to make general improvements
+to it, I won't usually list it here (*all* projects can be improved to varying
+extents, and it would be tedious to list them all). If I have specific
+improvements, I will try to list them here.
+
 ## Effort labels
 
 Effort can be rated on the following scale. In each case I assume I am the one
