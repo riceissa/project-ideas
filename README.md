@@ -19,7 +19,7 @@ Some reasons I have this repo are to:
   or working on something else. If I don't put an effort into recording things
   to work on (and training myself to notice needs that exist in the world), I
   might forget.
-* Clean out some tasks from [orgmode](emacs). I have a backlog of tasks in orgmode. A
+* Clean out some tasks from [orgmode](https://issarice.com/emacs). I have a backlog of tasks in orgmode. A
   lot of these aren't for me to immediately work on, and they kind of clutter
   up my orgmode file. If the tasks can be done by somebody that isn't me, why not keep that portion of the todo list public?
 * Give potential funders an idea of what they can fund. If I already want to
