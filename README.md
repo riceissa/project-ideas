@@ -34,3 +34,15 @@ The information in the table is intended
 to be helpful in scanning the list and orienting oneself, but is only
 suggestive; it is often the case that as a project proceeds, details become
 clearer or change.
+
+# External links
+
+- [My Quora questions](https://www.quora.com/profile/Issa-Rice/questions "“Issa Rice's Questions”. Quora. Retrieved November 26, 2017.").
+  Not all of my questions are "serious" questions, but they are things I
+  have wondered about or think others have wondered about, so I would
+  appreciate responses.
+- [New article pool](https://github.com/vipulnaik/contractwork/blob/master/new-article-pool.mediawiki)
+  by Vipul Naik lists article ideas
+- [Luke Muehlhauser's 2011 list of posts he would like to write](http://lesswrong.com/lw/85d/11_less_wrong_articles_i_probably_will_never_have/)
+- [orthonormal's 2012 list of posts they would like to write](http://lesswrong.com/lw/cnl/posts_id_like_to_write_includes_poll/)
+- [How to study superintelligence strategy](http://lukemuehlhauser.com/some-studies-which-could-improve-our-strategic-picture-of-superintelligence/)
