@@ -28,7 +28,7 @@ Some reasons I have this repo are to:
 * Find potential collaborators. Especially for the larger projects, it can be
   helpful to have other interested parties on board to divide up the work.
 * Give people a better idea of where I'm coming from. This is a broader point
-  that applies to other efforts I have made to be more [transparent](individual-transparency).
+  that applies to other efforts I have made to be more [transparent](https://issarice.com/individual-transparency).
 
 The information in the table is intended
 to be helpful in scanning the list and orienting oneself, but is only
