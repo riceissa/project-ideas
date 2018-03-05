@@ -55,17 +55,14 @@ refer to work days, so 8 hour periods. Of course, [planning fallacy](https://en.
 but I list some things I have actually produced in the past to ground myself on
 the kinds of tasks and their timescales.
 
-0
-:   Up to one day (8 hours) of effort. These are relatively quick things that can be
+- `low_effort`: Up to one day (8 hours) of effort. These are relatively quick things that can be
 done. Examples are [Timeline of Carl Shulman publications](https://timelines.issarice.com/index.php?title=Timeline_of_Carl_Shulman_publications&oldid=15618) as of July 13, 2017 (about 7 hours of work) and some
 global health pages like Amanda Glassman (I think).
 
-1
-:   More than one day and up to two weeks (8--80 hours) of effort. Examples on this level are
+- `medium_effort`: More than one day and up to two weeks (8--80 hours) of effort. Examples on this level are
 [timeline of MIRI](https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&oldid=15715) as of July 15, 2017 (75 hours) at the upper end. I think [timeline of AMF](https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=13553) (33 hours) around the middle.
 
-2
-:   More than two weeks (80 hours) of effort. Examples here are my total work so far on
+- `high_effort`: More than two weeks (80 hours) of effort. Examples here are my total work so far on
 the [donations list site](https://donations.vipulnaik.com/) (as of November 2017) and my total work on [Devec wiki](https://devec.subwiki.org/wiki/Main_Page) (as of November 2017).
 
 ## External links
