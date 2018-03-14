@@ -1,6 +1,6 @@
 # Project ideas
 
-Project ideas for Issa Rice (see repo issues)
+Project ideas for Issa Rice. **For the actual ideas, see the [repo issues](https://github.com/riceissa/project-ideas/issues).**
 
 Each issue is a project idea, and should have exactly one effort label, probably one venue label, and at least one format label. (It looks like only repo contributors can edit labels, so you can just explain this in the issue itself.)
 
