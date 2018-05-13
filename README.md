@@ -30,8 +30,8 @@ Some reasons I have this repo are to:
 * Give people a better idea of where I'm coming from. This is a broader point
   that applies to other efforts I have made to be more [transparent](https://issarice.com/individual-transparency).
 
-The information in the table is intended
-to be helpful in scanning the list and orienting oneself, but is only
+The information in each issue (i.e. project idea) is intended
+to be helpful in getting a basic idea of the project, but is only
 suggestive; it is often the case that as a project proceeds, details become
 clearer or change.
 
@@ -39,7 +39,8 @@ This is not an exhaustive list of project ideas. In particular if I have
 already done some work on a project and just want to make general improvements
 to it, I won't usually list it here (*all* projects can be improved to varying
 extents, and it would be tedious to list them all). If I have specific
-improvements, I will try to list them here.
+improvements, I will try to list them here. If existing projects have their
+own GitHub repositories, I will try to add issues there.
 
 ## Effort labels
 
