@@ -42,6 +42,8 @@ extents, and it would be tedious to list them all). If I have specific
 improvements, I will try to list them here. If existing projects have their
 own GitHub repositories, I will try to add issues there.
 
+**For the actual ideas, see the [repo issues](https://github.com/riceissa/project-ideas/issues).**
+
 ## Effort labels
 
 Effort can be rated on the following scale. In each case I assume I am the one
