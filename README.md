@@ -77,7 +77,8 @@ that is included in this repository:
 ./download_issues.py
 ```
 
-This will save the issues as a JSON in `issues.json`.
+This will save the issues as a JSON in `issues.json`. It won't save comments,
+but I think the script can be modified to also download comments.
 
 To make sure all the issues were downloaded, you can count the occurrence of a
 string that should appear once for each issue, for example:
