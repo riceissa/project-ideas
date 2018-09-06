@@ -68,6 +68,24 @@ global health pages like Amanda Glassman (I think).
 - `high_effort`: More than two weeks (80 hours) of effort. Examples here are my total work so far on
 the [donations list site](https://donations.vipulnaik.com/) (as of November 2017) and my total work on [Devec wiki](https://devec.subwiki.org/wiki/Main_Page) (as of November 2017).
 
+## Downloading issues
+
+To download the issues in this repository, run the script `download_issues.py`
+that is included in this repository:
+
+```bash
+./download_issues.py
+```
+
+This will save the issues as a JSON in `issues.json`.
+
+To make sure all the issues were downloaded, you can count the occurrence of a
+string that should appear once for each issue, for example:
+
+```bash
+grep -F '"title":' issues.json | wc -l
+```
+
 ## External links
 
 - [My Quora questions](https://www.quora.com/profile/Issa-Rice/questions "“Issa Rice's Questions”. Quora. Retrieved November 26, 2017.").
