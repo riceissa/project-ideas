@@ -99,3 +99,4 @@ grep -F '"title":' issues.json | wc -l
   ["How to study superintelligence strategy"](http://lukemuehlhauser.com/some-studies-which-could-improve-our-strategic-picture-of-superintelligence/) (2014),
   and ["Projects I wish I had time for"](http://lukemuehlhauser.com/projects-i-wish-i-had-time-for/) (2018)
 - [orthonormal's 2012 list of posts they would like to write](http://lesswrong.com/lw/cnl/posts_id_like_to_write_includes_poll/)
+- [Discussion about research projects people wished others would do, on Raymond Arnold's Facebook wall](https://www.facebook.com/raymond.arnold.5/posts/10215385999617218)
