@@ -87,6 +87,10 @@ string that should appear once for each issue, for example:
 grep -F '"title":' issues.json | wc -l
 ```
 
+## See also
+
+- [Ask me anything](https://github.com/riceissa/ama)
+
 ## External links
 
 - [My Quora questions](https://www.quora.com/profile/Issa-Rice/questions "“Issa Rice's Questions”. Quora. Retrieved November 26, 2017.").
