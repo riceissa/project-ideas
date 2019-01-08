@@ -4,7 +4,7 @@ Project ideas for Issa Rice. **For the actual ideas, see the [repo issues](https
 
 Each issue is a project idea, and should have exactly one effort label, probably one venue label, and at least one format label. (It looks like only repo contributors can edit labels, so you can just explain this in the issue itself.)
 
-Most of the ideas are for me to work on eventually, but others can work on them as well (in fact, I would prefer that since it means less work for me). Others can also add new ideas to this repo for me to work on (similar to [requested answers or "ask to answer" on Quora](https://www.quora.com/What-is-Request-Answers-and-how-does-it-work/answers/11143418)) or comment on existing ideas. In an ideal world, we would all have repos like this one and we could ask each other for specific kinds of output (and the votes would help us decide what to prioritize).
+Most of the ideas are for me to work on eventually, but others can work on them as well (in fact, I would prefer that since it means less work for me). Others can also add new ideas to this repo for me to work on (similar to [requested answers or "ask to answer" on Quora](https://www.quora.com/What-is-Request-Answers-and-how-does-it-work/answers/11143418)) or comment on existing ideas. In an ideal world, we would all have repos like this one and we could ask each other for specific kinds of output (and the votes and bounties would help us decide what to prioritize).
 
 Some reasons I have this repo are to:
 
@@ -24,7 +24,11 @@ Some reasons I have this repo are to:
   up my orgmode file. If the tasks can be done by somebody that isn't me, why not keep that portion of the todo list public?
 * Give potential funders an idea of what they can fund. If I already want to
   see something in the world, a modest amount of funding can shift my
-  priorities to work on that thing.
+  priorities to work on that thing.  By the way, since I tend to be busy
+  with the things I am already working on, it's hard for me to tell whether
+  I can actually work on a different thing even given funding, so I would prefer bounties
+  that I can claim by completing or making progress on a project
+  rather than some sort of pre-commitment to work on a project.
 * Find potential collaborators. Especially for the larger projects, it can be
   helpful to have other interested parties on board to divide up the work.
 * Give people a better idea of where I'm coming from. This is a broader point
