@@ -94,6 +94,8 @@ grep -F '"title":' issues.json | wc -l
 ## See also
 
 - [Ask me anything](https://github.com/riceissa/ama)
+- https://machinelearning.subwiki.org/wiki/User:IssaRice
+- https://learning.subwiki.org/w/index.php?limit=50&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&newOnly=1
 
 ## External links
 
